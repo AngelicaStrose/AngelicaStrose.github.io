@@ -177,7 +177,7 @@ var ContentAreaComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<body>\n\n<div class=\"padding\">\n<div class=\"container\">\n\n  <div class=\"row\">\n\n    <h1> ABOUT ME</h1>\n\n  <P>\n\n    Hi there! My name is Angelica St. Rose and I’m a 21-year-old graduate student in Computer Science at Georgia Institute of Technology. My interests involve: machine learning (particularly to predict stock market trends),  data analytics, user experience design, and salsa dancing. I’m currently on a mission to add more personal projects to my repertoire, so check out my github from time to time. My first one? This website! It was developed using AngularJS, Typescript, Javascript, and webpack. As I learn more, I’ll improve it piece by piece. See you back here soon!\n\n\n  </P>\n  </div>\n\n</div>\n\n</div>\n</body>\n"
+module.exports = "<body>\n\n<div class=\"padding\">\n<div class=\"container\">\n\n  <div class=\"row\">\n\n\n\n  <P>\n\n    Hi there! My name is   <span style=\"color: #ffdd42\">Angelica St. Rose</span> and I’m a 21-year-old graduate student in Computer Science at  <span style=\"color: #ffdd42\">Georgia Institute of Technology</span>. My interests include:  <span style=\"color: #ffdd42\">machine learning and data mining</span>,   <span style=\"color: #ffdd42\">data science and big data</span>,  <span style=\"color: #ffdd42\">reinforcement learning</span>, and  <span style=\"color: #ffdd42\">salsa dancing</span>. I’m currently on a mission to add more personal projects to my repertoire, so check out my github from time to time. My first one? This website! It was developed using  <span style=\"color: #ffdd42\">AngularJS</span>,  <span style=\"color: #ffdd42\">Typescript</span>,  <span style=\"color: #ffdd42\">Javascript</span>, and  <span style=\"color: #ffdd42\">webpack</span>. As I learn more, I’ll improve it piece by piece. See you back here soon!\n\n\n  </P>\n  </div>\n\n</div>\n\n</div>\n</body>\n"
 
 /***/ }),
 
@@ -313,7 +313,7 @@ var NavComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\n\n\n\n<div class=\"app-nav\" id=\"myTopNav\">\n\n\n  <ul class = \"main-nav\">\n\n    <li> <a href=\"src/assets/Graphics/Angelica St. Rose Resume.pdf\"> RESUME </a></li>\n\n    <li> <a href=\"#\"> GITHUB </a></li>\n\n\n\n\n\n  </ul>\n\n</div>\n\n\n"
+module.exports = "\n\n\n\n<div class=\"app-nav\" id=\"myTopNav\">\n\n\n  <ul class = \"main-nav\">\n\n    <li> <a href=\"https://docs.google.com/document/d/133iWguilVIuAUWUY7ztCvQlDGbxh9GL4H0wB2IG2fm0/edit?usp=sharing\"> RESUME </a></li>\n\n    <li> <a href=\"https://github.com/AngelicaStrose\"> GITHUB </a></li>\n\n\n\n\n\n  </ul>\n\n</div>\n\n\n"
 
 /***/ }),
 
